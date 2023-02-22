@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/react-joblist-tr/static/css/main.4b5987a3.css",
-    "main.js": "/react-joblist-tr/static/js/main.40a586ae.js",
-    "index.html": "/react-joblist-tr/index.html",
-    "main.4b5987a3.css.map": "/react-joblist-tr/static/css/main.4b5987a3.css.map",
-    "main.40a586ae.js.map": "/react-joblist-tr/static/js/main.40a586ae.js.map"
+    "main.css": "/react-jobslist-tr/static/css/main.4b5987a3.css",
+    "main.js": "/react-jobslist-tr/static/js/main.40a586ae.js",
+    "index.html": "/react-jobslist-tr/index.html",
+    "main.4b5987a3.css.map": "/react-jobslist-tr/static/css/main.4b5987a3.css.map",
+    "main.40a586ae.js.map": "/react-jobslist-tr/static/js/main.40a586ae.js.map"
   },
   "entrypoints": [
     "static/css/main.4b5987a3.css",
