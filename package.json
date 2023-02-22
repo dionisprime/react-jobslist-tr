@@ -7,7 +7,7 @@
     "react-dom": "^18.2.0",
     "react-scripts": "5.0.1"
   },
-  "homepage": "https://dionisprime.github.io/react-joblist-tr/",
+  "homepage": "https://dionisprime.github.io/react-jobslist-tr/",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
@@ -33,5 +33,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^5.0.0"
   }
 }
